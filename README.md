@@ -7,8 +7,9 @@ This template should help get you started developing with Vue 3 and Typescript i
 - vue@3.0
 - vue-router@4.0
 - vuex@4.0
-- typescript/tsx
+- typescript / tsx
 - vite@2.3
+- eslint + prettier
 
 ## Recommended IDE Setup
 
